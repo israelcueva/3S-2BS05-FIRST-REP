@@ -27,6 +27,24 @@ Una vez terminadas las tareas, envía por esta asignación:
 - URL de tu perfil.
 - URL del segundo repositorio.
 
+Para ello usa el botón `Add File` y luego `Create new file` al archivo md ponle tu nombre de usuario.
+
+Para el contenido copia el siguiente texto md cambiandolo por tus datos.
+
+```
+# Mi primer repositorio
+
+## git profile URL:
+
+https://github.com/pepito-mrc
+
+## Second repository URL:
+
+https://github.com/pepito-mrc
+
+```
+
+Dale clic al boton `Commit changes` y luego en el commit mesage añade `Mi primer commit` y acepta dando clic en `Commit Changes`
 
 
 
